@@ -1,0 +1,5 @@
+{
+    "jwtSecret": "eCommerce@1234",
+    "baseUrl": "http://localhost:7000",
+    "port": 7000
+  }
